@@ -26,7 +26,7 @@ class Config:
     TOKEN_ADDRESS: str = "0xf9847c631ADED64430Ece222798994b88bC8aeDA"
     IMAGE_PATH: str = "./stoneform_telegram_img.png"
     FALLBACK_IMAGE_URL: str = "https://stoneform.io/assets/images/icon/logo.png"
-    STONEFORM_WEBSITE: str = "https://ico.stoneform.io/"
+    STONEFORM_WEBSITE: str = "https://stoneform.io/"
     STONEFORM_WHITEPAPER: str = "https://stoneform.io/public/pdf/WHITEPAPER.pdf"
     CACHE_FILE: str = "token_monitor_cache.json"
     LOG_FILE: str = "token_monitor.log"
